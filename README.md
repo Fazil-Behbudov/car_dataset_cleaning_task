@@ -35,7 +35,4 @@ The dataset contains car advertisement listings with the following attributes:
 - seaborn
 - scikit-learn
 
-Install the required dependencies with:
 
-```bash
-pip install pandas numpy seaborn scikit-learn
